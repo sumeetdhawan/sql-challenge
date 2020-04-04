@@ -2,9 +2,9 @@
 
 ERD Image has been saved as a QuickDBD PNG file and SQL 
 
-SQL file for the table schemata is uploaded
+SQL file for the table schemata is uploaded (SCHEMA.SQL)
 
-SQL file with the queries asked for the homework is updated
+SQL file with the queries asked for the homework is updated (HOMEWORK.SQL)
 
 Bonus material with the panda file is uploaded
 
