@@ -6,7 +6,7 @@ SQL file for the table schemata is uploaded (SCHEMA.SQL)
 
 SQL file with the queries asked for the homework is updated (HOMEWORK.SQL)
 
-Bonus material with the panda file is uploaded
+Bonus material with the panda file is uploaded (Bonus Results)
 
 The two graph images with the histogram and bar chart is uploaded
 
