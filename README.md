@@ -1,6 +1,6 @@
 # sql-challenge
 
-ERD Image has been saved as a PNG file
+ERD Image has been saved as a PNG file and SQL 
 
 SQL file for the table schemata is uploaded
 
